@@ -1,4 +1,4 @@
 # foncs
 foncs
 
-directly pull
+directly to private branch and merge
